@@ -1,1 +1,2 @@
-print('Hi! GitHub!')
+s = 'Hi! GitHub! I am a string!'
+print(s)
